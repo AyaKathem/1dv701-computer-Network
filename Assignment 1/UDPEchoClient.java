@@ -3,7 +3,7 @@
   A simple echo client with no error handling
 */
 
-package labb2;
+
 
 
 
