@@ -1,0 +1,6 @@
+To compile the program:
+- I used eclipse editor- import it to the default package in src, or define the package you want.
+- Change the paths of Read and Write variables that match your PC Paths. 
+- compile :)
+
+
