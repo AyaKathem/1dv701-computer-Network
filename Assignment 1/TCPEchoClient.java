@@ -1,4 +1,4 @@
-package labb2;
+
 
 
 import java.io.DataInputStream;
